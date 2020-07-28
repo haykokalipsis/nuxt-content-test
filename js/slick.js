@@ -15,6 +15,7 @@
 
  */
 /* global window, document, define, jQuery, setInterval, clearInterval */
+alert('included')
 ;(function(factory) {
     'use strict';
     if (typeof define === 'function' && define.amd) {
